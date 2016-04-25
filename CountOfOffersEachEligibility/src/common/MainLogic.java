@@ -36,7 +36,7 @@ public class MainLogic {
 		System.out.println("Rule finding is complete...\nGenerating excel report now..");
 		rdExl.writeExcel(arWO);
 		
-		System.out.println("Excel Report has been generated");
+		System.out.println("Excel Report has been generated..");
 	}
 	
 	public static void main(String[] args){
